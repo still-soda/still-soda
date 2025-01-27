@@ -1,5 +1,5 @@
 <div >
-   <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif"  />
+   <img align="right" height="190" src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif"  />
 
    <div align="left">
       <h3 align="left">你好啊 👋 我是 
