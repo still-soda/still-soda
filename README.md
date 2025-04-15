@@ -1,6 +1,4 @@
 <div >
-   <img align="right" height="190" src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif"  />
-
    <div align="left">
       <h3 align="left">你好啊 👋 我是 
          <i>still-soda</i>
@@ -15,6 +13,8 @@
          <a href="https://www.still-soda.top" >https://www.still-soda.top</a>
       </p>
    </div>
+   
+   <img height="190" src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif"  />
 </div>
 
 ###
@@ -90,19 +90,8 @@
 ###
 
 <div >
-   <img src="https://github-readme-stats.vercel.app/api?username=still-soda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-
    <img width="20" />
 
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=still-soda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"   />
 
-</div>
-
-###
-
-<div>
-   <!-- <img height="120" src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif"/> -->
-
-
-   <!-- <img  height="100" src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" /> -->
 </div>
